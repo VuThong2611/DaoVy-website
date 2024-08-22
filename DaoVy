@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thiệp Mời Đám Cưới Đảo và Vy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 700px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #f76c6c;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .date-time, .location {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        .rsvp {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #f76c6c;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            color: #fff;
+            background-color: #f76c6c;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #e45a4f;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Thiệp Mời Đám Cưới</h1>
+        <h2>Đảo & Vy</h2>
+        <p>Chúng tôi rất vui mừng thông báo rằng chúng tôi sắp kết hôn và xin mời bạn tham dự ngày trọng đại của chúng tôi!</p>
+        <div class="date-time">
+            <p><strong>Ngày:</strong> 30 Tháng 9, 2024</p>
+            <p><strong>Giờ:</strong> 15:00</p>
+        </div>
+        <div class="location">
+            <p><strong>Địa điểm:</strong> Nhà hàng ABC, 123 Đường XYZ, Thành phố H</p>
+        </div>
+        <p class="rsvp">Xin vui lòng xác nhận sự tham dự trước ngày 15 Tháng 9, 2024.</p>
+        <a href="https://www.messenger.com/e2ee/t/7241421485921813" class="button" target="_blank">Gửi Lời Chúc Mừng</a>
+        <footer>
+            &copy; 2024 Đám Cưới Đảo và Vy. Chúng tôi mong được gặp bạn trong ngày đặc biệt này!
+        </footer>
+    </div>
+</body>
+</html>
